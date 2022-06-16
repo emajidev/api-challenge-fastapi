@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "62aa4f4aa69f6312106a8a3e"
+    },
+    "categories": ["Innocent"],
+    "value": "Why do we tell actors to “break a leg? Because every play has a cast. Here are some dark jokes to check out if you have a morbid sense of humor.",
+    "icon_url": "https://www.rd.com/wp-content/uploads/2018/06/05-S…mber-nicole-fornabaio-rd.com_.jpg?resize=1024,683",
+    "url": "https://www.rd.com/list/short-jokes/"
+  },
+  {
+    "_id": {
+      "$oid": "62aa59d20497cf59de16f28a"
+    },
+    "categories": ["Politics"],
+    "value": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.",
+    "icon_url": "https://www.rd.com/wp-content/uploads/2018/06/08-Short-Jokes-Anyone-Can-Remember-nicole-fornabaio-rd.com_.jpg?fit=700,467",
+    "url": "https://www.rd.com/list/short-jokes/"
+  }
+]
