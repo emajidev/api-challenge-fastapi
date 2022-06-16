@@ -78,7 +78,6 @@ After that it start to run the units test and finally it run API
 | :-------- | :------- | :------------------------- |
 | `number` | `int` | number for intrement one unity|
 
-```
 
 ## Running Tests
 To run tests, run the following command
